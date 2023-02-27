@@ -1,0 +1,43 @@
+body{
+  background-color:#D5E1EF;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+div{
+
+  background-color: white;
+  border-radius:20px;
+  padding: 16px 0;
+  height:480px;
+  width: 320px;
+  margin: auto;
+  
+}
+
+img{
+  border-radius:10px;
+  margin-left:16px;
+  height: 288px;
+  width: 288px;
+ 
+  
+}
+
+#first{
+  font-size:22px;
+  color:#1F314F;
+  font-weight:700;
+  text-align:center;
+  padding: 0 16px;
+  
+}
+
+#second{
+  font-size:15px;
+  font-weight:100;
+  text-align:center;
+  color:#7D889E;
+  padding:0 16px
+}
+
